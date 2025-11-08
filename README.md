@@ -6,12 +6,12 @@
 
 It’s designed to simplify communication, giving users control and context across devices without switching between multiple apps.
 
----
+-------------------------
 
 ##  What It Does
 The life Line lets users make and receive calls, read and send texts, and access real-time call transcriptions , all from one platform. It blends voice and text communication into a seamless, smart, and connected experience.
 
----
+-------------------------
 
 ## Why It Matters
 In today’s world, people juggle multiple devices, numbers, and apps just to stay in touch. The Invisible Line eliminates that clutter. It helps users:
@@ -20,14 +20,14 @@ In today’s world, people juggle multiple devices, numbers, and apps just to st
 - Receive AI-powered summaries and insights from conversations  
 - Keep data private and secure  
 
----
+-------------------------
 
 ## Who It’s For
 - **Busy professionals** who manage frequent calls and texts  
 - **Small business owners** who want efficient client communication  
 - **Remote teams** that need synchronized voice and text workflows  
 
----
+-------------------------
 
 ## Key Features
 - Unified inbox for voice and text messages  
@@ -36,7 +36,7 @@ In today’s world, people juggle multiple devices, numbers, and apps just to st
 - Multi-device synchronization  
 - Privacy-first architecture  
 
----
+-------------------------
 
 ## Technologies
 - **Frontend:** React (Next.js) + TailwindCSS  
@@ -46,6 +46,6 @@ In today’s world, people juggle multiple devices, numbers, and apps just to st
 - **Authentication:** Firebase Auth  
 - **Hosting:** Vercel (frontend) + Render (backend)
 
----
+-------------------------
 
 
